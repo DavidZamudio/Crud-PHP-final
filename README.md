@@ -41,6 +41,14 @@ Primero - directorio HTML
 
             se repite creando el formulario de bootstrap
 
+            w3layouts.com
+Segundo Cracion index.php
+Tercero Creacion carpeta vista/plantilla.php
+        se copia index.html
+Cuarto
+
+
+
 
 
 
