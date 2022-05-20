@@ -82,8 +82,8 @@
 			</script>';
 
 			echo '<div class="alert alert-success">El usuario ha sido registrado</div>';
+		
 		}
-
 
 		?>
 		
